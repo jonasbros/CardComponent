@@ -28,7 +28,7 @@ img.top-circle {
   left: 0;
   transform: translate(-50%, -50%);
 }
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1280px) {
   img.top-circle {
     width: 1280px;
     top: -20%;
@@ -41,7 +41,7 @@ img.bottom-circle {
   right: -25%;
   transform: translate(50%, 50%);
 }
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1280px) {
   img.bottom-circle {
     width: 875px;
     bottom: -95px;

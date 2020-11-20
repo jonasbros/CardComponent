@@ -37,7 +37,7 @@ img {
         left: 0;
         transform: translate(-50%, -50%);
 
-        @media only screen  and (min-width: 1440px) {
+        @media only screen  and (min-width: 1280px) {
             width: 1280px;
             top: -20%;
             left: 8.5%;
@@ -50,7 +50,7 @@ img {
         right: -25%;
         transform: translate(50%, 50%);
 
-        @media only screen  and (min-width: 1440px) {
+        @media only screen  and (min-width: 1280px) {
             width: 875px;
             bottom: -95px;
             right: 20%;
